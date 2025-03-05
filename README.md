@@ -14,4 +14,4 @@
 ### **📊 GitHub Stats**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOmars&layout=compact&theme=tokyonight&count_private=true)<br>
 ## 📫 Contact Me
-📧 Email: guilhereme.omars@gmail.com
+📧 Email: guilherme.omars@gmail.com
