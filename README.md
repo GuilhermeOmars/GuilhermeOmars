@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Guilherme Omar Silva</h1>
+<h1 align="center">Hello! 👋 I am Guilherme Omar Silva</h1>
 
 <p align="center">
   💻 Computer Science Student at UFJF <br>
