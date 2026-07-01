@@ -64,17 +64,6 @@ I enjoy learning new technologies and solving real-world problems through softwa
 
 ---
 
-## 📌 Featured Projects
-
-- 🌐 Full Stack Web Applications
-- 🔐 Authentication Systems
-- 📚 Academic Projects
-- ⚡ Open Source Contributions
-
-> Check out my pinned repositories below!
-
----
-
 ## 🏆 Activities
 
 - 🎓 Computer Science Student — Federal University of Juiz de Fora (UFJF)
@@ -91,9 +80,3 @@ I enjoy learning new technologies and solving real-world problems through softwa
 💼 **LinkedIn:** https://linkedin.com/in/guilherme-omar-968612356
 
 📄 **Lattes:** http://lattes.cnpq.br/5670221633419184
-
----
-
-<p align="center">
-Always learning, always building. 🚀
-</p>
